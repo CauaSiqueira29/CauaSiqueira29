@@ -1,7 +1,7 @@
 <div align="left">
   
 ## Opa, eu sou Cauã Siqueira. <br>
-- 📚 Graduando em Sistemas de Informação (3° / 8)
+- 📚 Graduando em Sistemas de Informação ( 3° / 8 )
 - 🕛 Senhor dos Anéis📕- LOL💻 - GOW🎮
 - 🧑‍💻 Um pouco de Java
 - 🎶 Sertanejo
