@@ -3,7 +3,7 @@
 ## Opa, beleza? Eu sou Cauã Siqueira :) <br>
 - 📚 Graduando em Sistemas de Informação ( 8° / 8 )
 - 🕛 Senhor dos Anéis📕- LOL💻 - GOW🎮
-- 🧑‍💻 Estudando back com Java - SpringBoot - API's - PostgreSQL
+- 🧑‍💻 Estudando Back-End com Java - SpringBoot - API's - PostgreSQL
   
 ##
   
