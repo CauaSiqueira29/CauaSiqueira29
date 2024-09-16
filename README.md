@@ -4,6 +4,7 @@
 - 📚 Graduando em Sistemas de Informação ( 8° / 8 )
 - 🕛 Senhor dos Anéis📕- LOL💻 - GOW🎮
 - 🧑‍💻 Estudando Back-End com Java - SpringBoot - API's - PostgreSQL
+- 📱Iniciando Mobile
   
 ##
   
